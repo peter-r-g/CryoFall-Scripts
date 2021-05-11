@@ -8,7 +8,7 @@ SET modName=TestMod
 : Whether the console window should pause. (Only use this if you're debugging or need to see output)
 : yes = will pause, anything else = will not pause.
 : Default is no
-SET shouldPause=yes
+SET shouldPause=no
 : The number of CPU cores to use for the archiving process.
 : Default is 1
 SET cpuCores=1
