@@ -3,7 +3,7 @@
 : Required Settings:
 : The location to where your CryoFall installation is.
 : Default is C:\Program Files (x86)\Steam\steamapps\common\CryoFall
-SET installFolder="E:\GitHub\Cryofall\Game"
+SET installFolder="C:\Program Files (x86)\Steam\steamapps\common\CryoFall"
 : The file name of the package batch file.
 : Defaukt is package.bat
 SET packageBatchFile=package.bat
